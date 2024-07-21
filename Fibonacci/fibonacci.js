@@ -2,7 +2,7 @@
 
 // FORMULA = F(n-1) + F(n-2);
 
-/*
+
 // 1. Find Fibonacci using Recursion method. But it can be very slow while processing large inputs.
 function fibonacci(n) {
     if(n <= 1) {
@@ -108,6 +108,6 @@ function summation(n){
 
 console.log(summation(5));
 console.log(summation(55));
-*/
+
 
 

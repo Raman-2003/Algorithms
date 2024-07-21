@@ -1,7 +1,7 @@
 // let's see Recursion and their problems
 
 
-/*
+
 // method:1
 function factorial(n){
     if(n===0 || n===1){
@@ -13,7 +13,7 @@ function factorial(n){
 
 console.log(factorial(5));
 console.log(factorial(10));
-*/
+
 
 
 // This is another kind of way to find out recursion value of a number. Don't get forget to give "i<=n"
