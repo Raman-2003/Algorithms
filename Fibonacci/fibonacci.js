@@ -1,6 +1,7 @@
 // Start with fibonacci series.
 
-// FORMULA = F(n-1) + F(n-2);
+// FORMULA = F(n-1) + F(n-2); or  Fibonacci = fib(n-1) + fib(n-2);
+
 
 
 // 1. Find Fibonacci using Recursion method. But it can be very slow while processing large inputs.
